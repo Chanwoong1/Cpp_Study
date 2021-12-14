@@ -4,9 +4,6 @@
 
 using namespace std;
 
-int add(int a, int b);
-int multiply(int a, int b);
-
 int main()
 {
     cout << add(1, 2) << endl;
